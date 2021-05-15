@@ -7,3 +7,7 @@ know is test commit 3.
 
 this line is commit 4, so I have test 4.
 today is so far so good.
+
+commit 5 hahahahaha
+
+commit 6  branch
